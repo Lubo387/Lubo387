@@ -1,7 +1,23 @@
-## Hi there 👋
+## Hi I'm Lubomire 👋
 
 <!--
 **Lubo387/Lubo387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## About Me
+
+I am a university student interested in programming and software development.
+
+## Programming Languages
+
+- C++
+- C#
+- Python
+
+## Technologies
+
+- Git
+- GitHub
+- Visual Studio
 
 Here are some ideas to get you started:
 
